@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrioMuli
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning programing
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me brian.muli@Live.com
 
